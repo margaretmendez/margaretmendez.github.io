@@ -6,3 +6,10 @@
 
 ## BigBasket Daily Poster Front
 ![BB Daily Poster Front](/docs/BB_Daily_Poster_ Front.jpg)
+
+## BigBasket Daily Poster Back
+![BB Daily Poster Back](/docs/BB_Daily_Poster_Back_Side.jpg)
+
+## Billboard Shampoo Mock Up
+![Billboard Shampoo Mock Up]((/docs/Billboard_Shampoo_Mock_Up.jpg)
+
