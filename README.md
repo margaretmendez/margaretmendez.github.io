@@ -5,7 +5,7 @@
 - 🎨 Here is a list of my works during my study.
 
 ## BigBasket Daily Poster Front
-![BB Daily Poster Front](/docs/BB_Daily_Poster_ Front.jpg)
+![BB Daily Poster Front](/docs/BB_Daily_Poster_ Front.jpg | width=1024)
 
 ## BigBasket Daily Poster Back
 ![BB Daily Poster Back](/docs/BB_Daily_Poster_Back_Side.jpg)
