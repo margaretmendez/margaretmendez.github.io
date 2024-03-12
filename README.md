@@ -10,17 +10,17 @@
 ## BigBasket Daily Poster Back
 ![BB Daily Poster Back](/docs/BB_Daily_Poster_Back.jpg)
 
-## Billboard Shampoo Mockup
-![Billboard Shampoo Mockup](/docs/Billboard_Shampoo_Mockup.jpg)
-
 ## Food Poster
 ![Food Poster](/docs/Food_Poster.jpg)
 
 ## Food Poster Mockup 
-![Food Poster Mock Up ](/docs/Food_Poster_Mockup.jpg)
+![Food Poster Mockup ](/docs/Food_Poster_Mockup.jpg)
 
 ## Ketchup Poster
 ![Ketchup Poster](/docs/Ketchup_Poster.jpg)
+
+## Ketchup Food Poster Mockup
+![Ketchup Food Poster Mockup](/docs/Ketchup_Food_Poster_Mockup.jpg)
 
 ## Burger Poster
 ![Burger Poster](/docs/Burger_Poster.jpg)
@@ -33,6 +33,9 @@
 
 ## Novel Cover Mockup
 ![Novel Cover Mockup](/docs/Novel_Cover_Mockup.jpg)
+
+## Logo Design
+![Logo Design](/docs/Logo_Design.jpg)
 
 ## Shampoo Poster
 ![Shampoo Poster](/docs/Shampoo_Poster.jpg)
@@ -49,14 +52,11 @@
 ## Shampoo Bottle Mockup 2
 ![Shampoo Bottle Mockup 2](/docs/Shampoo_Bottle_Mockup_2.jpg)
 
-## Ketchup Food Poster Mockup
-![Ketchup Food Poster Mockup](/docs/Ketchup_Food_Poster_Mockup.jpg)
-
-## Logo Design
-![Logo Design](/docs/Logo_Design.jpg)
-
 ## Shampoo Poster Billboard
 ![Shampoo Poster Billboard](/docs/Shampoo_Poster_Billboard.jpg)
+
+## Billboard Shampoo Mockup
+![Billboard Shampoo Mockup](/docs/Billboard_Shampoo_Mockup.jpg)
 
 ## Visiting Card Front
 ![Visiting Card Front](/docs/Visiting_Card_Front.jpg)
